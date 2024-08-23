@@ -1,0 +1,15 @@
+.mainShopDiv{
+    display: flex;
+}
+.mainShopDiv .Shop{
+    width: 60%; 
+   margin-right: 4rem;
+}
+
+.mainShopDiv .anotherSectionShop{
+    width: 40%;
+    border-left: 3px solid green;
+    padding-left: 3rem;
+ 
+    
+}

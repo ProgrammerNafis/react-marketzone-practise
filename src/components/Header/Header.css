@@ -1,0 +1,21 @@
+.logo{
+    font-size: xx-large;
+    color: red;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.navbar{
+    background-color: black;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    margin-top: 2rem;
+}
+.navbar a{
+    color: white;
+    text-decoration:  none;
+    padding: 5rem 5rem;
+    font-size: large;
+}
